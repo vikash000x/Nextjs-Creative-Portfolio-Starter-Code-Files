@@ -15,15 +15,11 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+            My journey into the world of technology began with a deep dive into Data Structures and Algorithms (DSA). Through rigorous study and hands-on practice, I honed my skills in algorithmic thinking and problem-solving.
+          As a Full Stack Web Developer fresh out of the academic arena, I bring a passion for building dynamic and user-friendly web applications using the modern MERN (MongoDB, Express.js, React.js, Node.js) stack.
+           my foray into competitive programming has further sharpened my analytical abilities and coding prowess. Participating in coding competitions has not only enriched my problem-solving toolkit but has also instilled in me a mindset of continuous learning and improvement.
+          My academic background in Computer Science has provided me with a solid understanding of the fundamental principles that underpin modern computing systems. From database management to software engineering methodologies, I am well-versed in the core concepts that drive technological innovation forward.
+
           </p>
         </ItemLayout>
 
